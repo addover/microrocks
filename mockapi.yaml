@@ -1,0 +1,72 @@
+---
+openapi: 3.0.2
+info:
+  title: API Items - 1.0
+  version: 1.0.0
+  description: API definition of Items
+  contact:
+    name: Items
+    url: https://lakesgas-cargas.silverlinevps.com
+    email: achyuth@mailinator.com
+paths:
+  /API/GetItem:
+    summary: Get  Item
+    post:
+      requestBody:
+        content:
+          application/xml:
+            schema:
+              $ref: '#/components/schemas/ItemId'
+      responses:
+        "200":
+          content:
+            application/xml:
+              schema:
+                $ref: '#/components/schemas/Items'
+              examples:
+                Customer Items Example:
+                  value:
+                    DataSet:
+                      Table:
+                      - ItemId: 12312313
+                        Itemstatus: Active
+                        ItemType: laptop
+          description: Changed
+      operationId: GetCustomerAccounts
+      summary: Get Customer Accounts
+components:
+  schemas:
+    ItemId:
+      type: object
+      properties:
+        ItemId:
+          type: string
+          description: Item Id
+          example: 12312313
+    Items:
+      title: Root Type for accounts
+      description: The root of the accounts type's schema.
+      type: object
+      properties:
+        DataSet:
+          type: object
+          properties:
+            Table: 
+              type: array
+              items:
+                type: object
+                properties:
+                  ItemId:
+                    type: string
+                  Itemstatus:
+                    type: string
+                  ItemType:
+                    type: string                  
+      example:
+        DataSet:
+          Table:
+          - ItemId: 12312313
+            Itemstatus: Active
+            ItemType: Residential
+           
+    
