@@ -95,22 +95,6 @@ paths:
       <CustomerLastName>ROSALES</CustomerLastName>
       <CustomerFirstName>DANIELLE</CustomerFirstName>
     </Table>
-    <Table>
-      <CustomerID>94604</CustomerID>
-      <CustomerStatus>Active</CustomerStatus>
-      <CustomerType>Residential</CustomerType>
-      <EmailAddress>dt2013@hotmail.com</EmailAddress>
-      <Address1>PO BOX442</Address1>
-      <Address2></Address2>
-      <Address3></Address3>
-      <City>ADRIAN</City>
-      <State>MN</State>
-      <Zipcode>56110</Zipcode>
-      <ContactPerson></ContactPerson>
-      <PrimaryPhone>5072274738</PrimaryPhone>
-      <CustomerLastName>sdssdasdsadsa</CustomerLastName>
-      <CustomerFirstName>DANIELLE</CustomerFirstName>
-    </Table>
   </DataSet>
 </Results>'
                    
