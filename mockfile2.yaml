@@ -126,7 +126,7 @@ paths:
       <Address2></Address2>
       <Address3></Address3>
       <City>ADRIAN</City>
-      <State>MN</State>
+      <State></State>
       <Zipcode>56110</Zipcode>
       <ContactPerson></ContactPerson>
       <Inactive>false</Inactive>
