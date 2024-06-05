@@ -80,7 +80,7 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>945138</CustomerID>
+      <CustomerID>945139</CustomerID>
       <CustomerStatus>Active</CustomerStatus>
       <CustomerType>Residential</CustomerType>
       <EmailAddress>addddddddddd@hotmail.com</EmailAddress>
@@ -127,7 +127,7 @@ paths:
       <Address3></Address3>
       <City>ADRIAN</City>
       <State>Kaka</State>
-      <Zipcode></Zipcode>
+     
       <ContactPerson>dasda</ContactPerson>
       <Inactive>false</Inactive>
       <LocationType></LocationType>
