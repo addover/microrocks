@@ -91,7 +91,7 @@ paths:
       <State>sdasdasd</State>
       <Zipcode>8789555</Zipcode>
       <ContactPerson>adasdsa</ContactPerson>
-      
+      <PrimaryPhone></PrimaryPhone>
       <CustomerLastName>ROSALES</CustomerLastName>
       <CustomerFirstName>ROSALES</CustomerFirstName>
     </Table>
