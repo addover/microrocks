@@ -80,9 +80,8 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>945144</CustomerID>
-      <CustomerStatus>Active</CustomerStatus>
-      <CustomerType>Residential</CustomerType>
+      <CustomerID>945145</CustomerID>
+      
       <CustomerLastName>ROSALES</CustomerLastName>
       <CustomerFirstName>ROSALES</CustomerFirstName>
     </Table>
