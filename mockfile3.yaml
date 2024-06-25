@@ -25,6 +25,9 @@ paths:
     <Table>
       <CustomerID>12312313</CustomerID>
     </Table>
+    <Table>
+      <CustomerID>12312314</CustomerID>
+    </Table>
   </DataSet>
 </Results>'
                     
