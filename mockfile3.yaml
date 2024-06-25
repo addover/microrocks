@@ -62,7 +62,7 @@ paths:
       <Zipcode>8789555</Zipcode>
       <ContactPerson>adasdsa</ContactPerson>
       <PrimaryPhone>787897878</PrimaryPhone>
-      
+      <CustomerLastName>ROSALES</CustomerLastName>
       <CustomerFirstName>ROSALES</CustomerFirstName>
     </Table>
   </DataSet>
@@ -92,7 +92,7 @@ paths:
   <DataSet>
     <Table>
       <Name>dsfsadsad</Name>
-      <Address1>edasdas</Address1>
+      
       <Address2></Address2>
       <Address3></Address3>
       <City>ADRIAN</City>
