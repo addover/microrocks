@@ -100,7 +100,7 @@ paths:
       <Address3></Address3>
       <City>ADRIAN</City>
       <State>Kaka</State>
-      <Zipcode>454545</Zipcode>
+      
       <ContactPerson>dasda</ContactPerson>
       <Inactive>false</Inactive>
       <LocationType></LocationType>
@@ -108,7 +108,7 @@ paths:
     </Table>
     <Table>
       <Name>Primary Location</Name>
-      
+      <Address1>500 INDIANA AVE</Address1>
       <Address2></Address2>
       <Address3></Address3>
       <City>ADRIAN</City>
