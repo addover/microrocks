@@ -53,7 +53,7 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>0014</CustomerID>
+      <CustomerID>0015</CustomerID>
       <CustomerStatus>Active</CustomerStatus>
       <CustomerType>Residential</CustomerType>
       <EmailAddress>ayadav1@yopmail.com</EmailAddress>
@@ -98,8 +98,8 @@ paths:
       <Address1>edasdas</Address1>
       <Address2></Address2>
       <Address3></Address3>
-      <City></City> 
-      <State>Kaka</State>
+      <City>dsfsdf</City> 
+      <State></State>
       <Zipcode>454545</Zipcode>
       <ContactPerson>dasda</ContactPerson>
       <Inactive>false</Inactive>
