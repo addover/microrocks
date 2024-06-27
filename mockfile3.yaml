@@ -53,7 +53,7 @@ paths:
                   value: '<Results>
   <DataSet>
     <Table>
-      <CustomerID>0020</CustomerID>
+      <CustomerID>0021</CustomerID>
       <CustomerStatus>Active</CustomerStatus>
       <CustomerType>Residential</CustomerType>
       <EmailAddress>ayadav1@yopmail.com</EmailAddress>
@@ -107,7 +107,7 @@ paths:
       <PhoneNumber>(507) 227-4738</PhoneNumber>
     </Table>
     <Table>
-      <Name>Primary Locatioan</Name>
+      <Name>Primary Location</Name>
       <Address1>500 INDIANA AVE</Address1>
       <Address2></Address2>
       <Address3></Address3>
